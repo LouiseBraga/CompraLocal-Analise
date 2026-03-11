@@ -41,10 +41,9 @@ Essa ação requer informações diferentes para cada tipo de usuário, sendo el
 
 
 # Relações
-- [[Enunciado-Oficial]]
+
 # Tags
 #Cadastro
-#Usuario
 #Cliente
 #Loja 
 #Entregador

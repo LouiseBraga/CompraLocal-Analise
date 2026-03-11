@@ -9,9 +9,10 @@ O cadastro é feito individualmente para cada produto e guarda as seguintes info
 - Quantidade em estoque para compra e venda;
 
 # Relações
-[[Enunciado-Oficial]]
+[[RF04-Categorias-de-Produtos]]
 
 
 # Tags
 #Cadastro 
 #Loja
+#Produtos
