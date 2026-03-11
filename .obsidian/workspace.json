@@ -8,73 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f0c85d3bda0e55e",
+            "id": "98664c7c33d8916d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projeto/Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+                "file": "projeto/Análise de Requisitos/Funcionais/RF11-Confirmar-Estoque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RF03-Cadastro-de-Pedidos"
+              "title": "RF11-Confirmar-Estoque"
             }
           },
           {
-            "id": "b17a8509d933bbc7",
+            "id": "231fbeb16cdd80df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projeto/Análise de Requisitos/Funcionais/RF04-Categorias-de-Produtos.md",
+                "file": "projeto/Análise de Requisitos/Funcionais/RF10-Analise-de-Reembolso-Por-Cliente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RF04-Categorias-de-Produtos"
-            }
-          },
-          {
-            "id": "21687a455e101692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projeto/Análise de Requisitos/Funcionais/RF05-Campanhas-Vigentes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RF05-Campanhas-Vigentes"
-            }
-          },
-          {
-            "id": "e2337e7fd9f29653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projeto/Análise de Requisitos/Funcionais/RF02-Cadastro-de-Produtos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RF02-Cadastro-de-Produtos"
-            }
-          },
-          {
-            "id": "5b523a8ae9f8c1ea",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "RF10-Analise-de-Reembolso-Por-Cliente"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e582be77c128dbc4",
@@ -148,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF10-Analise-de-Reembolso-Por-Cliente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para RF10-Analise-de-Reembolso-Por-Cliente"
             }
           },
           {
@@ -166,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF10-Analise-de-Reembolso-Por-Cliente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para RF10-Analise-de-Reembolso-Por-Cliente"
             }
           },
           {
@@ -208,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF10-Analise-de-Reembolso-Por-Cliente.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de RF10-Analise-de-Reembolso-Por-Cliente"
             }
           }
         ]
@@ -235,13 +199,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b523a8ae9f8c1ea",
+  "active": "231fbeb16cdd80df",
   "lastOpenFiles": [
-    "projeto/Análise de Requisitos/Funcionais/RF02-Cadastro-de-Produtos.md",
-    "projeto/Análise de Requisitos/Funcionais/RF01-Cadastro-de-Usuarios.md",
+    "projeto/Análise de Requisitos/Funcionais/RF11-Confirmar-Estoque.md",
+    "projeto/Análise de Requisitos/Não Funcionais/RN01-Sistema-de-Gerenciamento-de-Banco-de-Dados.md",
+    "projeto/Análise de Requisitos/Funcionais/RF10-Analise-de-Reembolso-Por-Cliente.md",
+    "projeto/Análise de Requisitos/Funcionais/RF09-Validacao-de-Reembolso.md",
+    "projeto/Análise de Requisitos/Funcionais/RF08-Reembolso.md",
+    "projeto/Análise de Requisitos/Funcionais/RF07-Cashback.md",
+    "projeto/Análise de Requisitos/Funcionais/RF06-Cupons-Promocionais.md",
+    "projeto/Análise de Requisitos/Funcionais/RF05-Campanhas-Vigentes.md",
     "projeto/Análise de Requisitos/Funcionais/RF04-Categorias-de-Produtos.md",
     "projeto/Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
-    "projeto/Análise de Requisitos/Funcionais/RF05-Campanhas-Vigentes.md",
+    "projeto/Análise de Requisitos/Funcionais/RF02-Cadastro-de-Produtos.md",
+    "projeto/Objetos de Análise/Consultas-Estratégicas.md",
+    "projeto/Análise de Requisitos/Funcionais/RF01-Cadastro-de-Usuarios.md",
+    "RF12-Avaliação-de-Lojas.md",
+    "projeto/Objetos de Análise/Especificações-de-requisitos.md",
     "projeto/Objetos de Análise/Enunciado-Oficial.md",
     "projeto/Análise de Requisitos/Não Funcionais"
   ]

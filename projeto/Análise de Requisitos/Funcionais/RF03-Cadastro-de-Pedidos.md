@@ -10,11 +10,9 @@ Para um pedido bem sucedido(Aquele que passa por todos os processos e chega até
 - Em caso de algum cupom ser utilizado, as informações do cupom;
 
 
-
-
-
 ## Relações
-
+- [[RF06-Cupons-Promocionais]]
+- [[RF07-Cashback]]
 
 ## Tags
 #Cadastro 

@@ -8,4 +8,10 @@ Para uma campanha vigente válida é preciso armazenar:
 - Data de início;
 - Data de término;
 - Novas taxas por categoria;
+
+## Relações
+- [[RF04-Categorias-de-Produtos]]
+
+## Tags
+#Plataforma
  

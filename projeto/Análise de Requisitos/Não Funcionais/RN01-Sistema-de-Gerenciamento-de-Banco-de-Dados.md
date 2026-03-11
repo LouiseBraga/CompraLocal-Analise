@@ -1,0 +1,1 @@
+A plataforma deve funcionar e ser reproduzida no SGBD MySql.

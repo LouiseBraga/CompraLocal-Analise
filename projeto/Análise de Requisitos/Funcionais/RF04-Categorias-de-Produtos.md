@@ -10,7 +10,7 @@ Para uma categoria válida, é preciso armazenar:
 
 ## Relações
 - [[RF05-Campanhas-Vigentes]]
-- [[RF04-Categorias-de-Produtos]]
+- [[RF02-Cadastro-de-Produtos]]
 
 
 ## Tags
