@@ -18,3 +18,4 @@ Para um cupom válido é preciso armazenar:
 
 ## Tags
 #Pedidos 
+#Promoções 

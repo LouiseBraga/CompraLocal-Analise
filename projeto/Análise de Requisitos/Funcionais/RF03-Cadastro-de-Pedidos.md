@@ -9,6 +9,8 @@ Para um pedido bem sucedido(Aquele que passa por todos os processos e chega até
 - Data de fim da entrega de cada loja;
 - Em caso de algum cupom ser utilizado, as informações do cupom;
 
+Para pedidos mal sucedidos, ou seja, cancelados antes do recebimento do cliente, devem ser guardadas apenas as datas relacionadas as fases pelas quais aquele pedido chegou a passar.
+Exemplo: Um pedido que foi cancelado antes de entrar na fase de entrega não pode conter data de inicio da entrega ou data de fim da entrega.
 
 ## Relações
 - [[RF06-Cupons-Promocionais]]
