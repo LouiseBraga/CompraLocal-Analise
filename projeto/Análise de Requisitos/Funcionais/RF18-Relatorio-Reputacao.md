@@ -3,20 +3,20 @@ A partir desses dados, o sistema deve gerar métricas como nota média, volume d
 Essas análises devem possibilitar a identificação de lojas com desempenho inconsistente, como casos em que há nota alta com baixa recompra ou nota baixa com alta recompra, auxiliando na avaliação da qualidade do serviço prestado.
 Indicadores de desempenho devem armazenar ou calcular:
 
-Obrigatórias
-Nota média das avaliações da loja;
-Volume total de vendas realizadas;
-Taxa de recompra dos clientes;
-Taxa de reclamações ou reembolsos;
-Identificação da loja analisada;
-Período de análise dos dados.
+#### Obrigatórias
+- Identificação da loja analisada;
+- Data do relatório;
+- Nota média das avaliações da loja;
+- Volume total de vendas realizadas;
+- Taxa de recompra dos clientes;
+- Taxa de reclamações ou reembolsos;
 
-Relações
-RF02 – Cadastro de Produtos
-RF03 – Cadastro de Pedidos
-RF17 – Reputacao
 
-Tags
+
+## Relações
+- [[RF17-Reputacao]]
+
+## Tags
 #Lojas
 #Pedidos
 #Avaliações

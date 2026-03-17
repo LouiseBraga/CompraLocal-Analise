@@ -2,18 +2,18 @@ O sistema deve permitir manter um mecanismo de reputação para lojistas e entre
 As avaliações devem ser registradas por meio de notas atribuídas aos lojistas e entregadores, permitindo armazenar o histórico de avaliações e calcular a reputação de cada participante da plataforma.
 Avaliações válidas devem armazenar:
 
-Obrigatórias
-Identificação do pedido relacionado à avaliação;
-Identificação do usuário avaliador;
-Identificação do lojista ou entregador avaliado;
-Nota atribuída na avaliação;
-Data da avaliação.
+#### Obrigatórias
+- Identificação do pedido relacionado à avaliação;
+- Identificação do usuário avaliador;
+- Identificação do lojista ou entregador avaliado;
+- Nota atribuída na avaliação;
+- Data da avaliação.
 
-Relações
-RF01 – Cadastro de Usuários
-RF03 – Cadastro de Pedidos
+## Relações
+[[RF18-Relatorio-Reputacao]]
+[[RF03-Cadastro-de-Pedidos]]
 
-Tags
+## Tags
 #Usuários
 #Pedidos
 #Avaliações
