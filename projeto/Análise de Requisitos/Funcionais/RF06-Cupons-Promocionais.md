@@ -7,6 +7,7 @@ Para um cupom válido é preciso armazenar:
 #### Obrigatórios
 - Nome para identificação;
 - Descrição para identificação e apresentação;
+- Não existe acumulo de promoções, apenas uma é válida para um produto;
 - Código promocional para reconhecimento e uso do cupom;
 - Taxa promocional oferecida pelo cupom para aplicação em pedidos;
 - Status atual para validação de atividade;

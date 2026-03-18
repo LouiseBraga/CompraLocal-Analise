@@ -5,6 +5,9 @@ O cadastro é feito individualmente para cada produto e guarda as seguintes info
 #### Obrigatórias
 - Categoria para organização e identificação;
 - Nome do produto para identificação;
+- Código do produto para identificação;
+- Código de barras para identificação;
+- Nome do produto para identificação;
 - Preço do produto para compra e venda;
 - Quantidade em estoque para compra e venda;
 
