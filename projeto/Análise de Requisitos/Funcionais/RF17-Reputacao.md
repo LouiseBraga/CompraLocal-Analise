@@ -4,9 +4,9 @@ Avaliações válidas devem armazenar:
 
 #### Obrigatórias
 - Identificação do pedido relacionado à avaliação;
-- Identificação do usuário avaliador;
 - Identificação do lojista ou entregador avaliado;
 - Nota atribuída na avaliação;
+- 1 a 5 estrelas;
 - Data da avaliação.
 
 ## Relações
