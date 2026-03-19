@@ -3,7 +3,7 @@
 - Promoções afetam apenas produtos especificos, um cupom pode ser aplicado a um pedido inteiro.
 - Um cliente não pode usar o mesmo cupom mais de uma vez.
 - O cashback é direito de todo cliente.
-- O cashback é valido para o pedido inteiro
+- O cashback é valido para o pedido inteiro.
 - As notas dadas por um cliente a uma loja/entregador precisam ser armazenadas para que ele as veja posteriormente.
 - Atrasos no SLA não afetam o sistema de reputação da loja, são apenas para avaliação interna da empresa.
 

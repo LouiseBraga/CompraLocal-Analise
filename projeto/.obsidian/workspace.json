@@ -36,17 +36,35 @@
             }
           },
           {
+            "id": "bb00df9ffc99100d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RF03-Cadastro-de-Pedidos"
+            }
+          },
+          {
             "id": "12c3c6c399054ce6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Objetos de Análise/Consultas-Estratégicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consultas-Estratégicas"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,8 +117,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,12 +225,13 @@
   },
   "active": "12c3c6c399054ce6",
   "lastOpenFiles": [
-    "estudoRequisitos.md",
-    "Análise de Requisitos/Funcionais/RF02-Cadastro-de-Estoque.md",
+    "Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+    "Objetos de Análise/Consultas-Estratégicas.md",
     "Análise de Requisitos/Funcionais/RF01-Cadastro-de-Usuarios.md",
     "Objetos de Análise/Especificações-de-requisitos.md",
+    "estudoRequisitos.md",
+    "Análise de Requisitos/Funcionais/RF02-Cadastro-de-Estoque.md",
     "Objetos de Análise/Enunciado-Oficial.md",
-    "Objetos de Análise/Consultas-Estratégicas.md",
     "Análise de Requisitos/Historias de Usuário/HU01-Cadastro de Usuario.md",
     "Análise de Requisitos/Não Funcionais",
     "Análise de Requisitos/Funcionais",

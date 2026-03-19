@@ -6,6 +6,8 @@ Essa ação requer informações diferentes para cada tipo de usuário, sendo el
 	- Nome completo para identificação;
 	- CPF para identificação;
 	- Endereço para localização;
+	- Estado para localização;
+	- Cidade para localização;
 	- Numero de telefone para contato;
 	- Email pessoal para um login seguro;
 	- Senha de no minimo 8 dígitos para um login seguro;
@@ -39,10 +41,9 @@ Essa ação requer informações diferentes para cada tipo de usuário, sendo el
 
 
 # Relações
-- [[Enunciado-Oficial]]
+
 # Tags
 #Cadastro
-#Usuario
 #Cliente
 #Loja 
 #Entregador
